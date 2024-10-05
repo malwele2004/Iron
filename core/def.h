@@ -20,8 +20,9 @@
 #define B_OR(A,B)       (A|B)
 #define B_AND(A,B)      (A&B)
 #define B_XOR(A,B)      (A^B)
+#define IN(V,A,B)       AND(A <= V, V <= B)
 
-typedef int64_t isize_t
-typedef uint64_t usize_t
+typedef int64_t isize_t;
+typedef uint64_t usize_t;
 
 #endif
