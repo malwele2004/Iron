@@ -1,2 +1,2 @@
 # Iron
-Type safe, compiled and Interpreted programming language and runtime.
+Type safe, compiled, Interpreted programming language and runtime.
